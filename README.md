@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devigk
 - 👀 I’m interested in Application/web Programming,Data Analysis, Data Science etc
-- 🌱 I’m currently learning Data Science
+- 🌱 I am an aspiring Data Scientist looking for an oppurutinity to work in the field of Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
